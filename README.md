@@ -35,5 +35,3 @@
 ## 📜 License
 This project is licensed under the **MIT License**.
 
-## 🙌 Contribution
-Feel free to fork, submit issues, or suggest enhancements. Contributions are welcome!
